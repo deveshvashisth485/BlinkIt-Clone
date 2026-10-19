@@ -65,16 +65,7 @@ Configure the required environment variables locally using a `.env` file in the 
 
 ## Demo
 
-## Demo
-
-### Demo 1
-![Blinkit Clone Demo 1](./Demo%201.gif)
-
-### Demo 2
-![Blinkit Clone Demo 2](./Demo%202.gif)
-
-### Project Thumbnail
-![Blinkit Clone Thumbnail](./Thumbnails.png)
+See Demo 1.gif, Demo 2.gif, and Thumbnails.png in this repository for the available project visuals.
 
 ## Future Improvements
 
